@@ -4,4 +4,6 @@ task 1 1-who_am_i a script that print current username
 
 task 2 2-groups  a script used to print all the groups
 
+task 3 3-new_owner a script that change the owner of hello
+
 
