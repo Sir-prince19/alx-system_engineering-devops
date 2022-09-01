@@ -6,4 +6,10 @@ task 2 2-groups  a script used to print all the groups
 
 task 3 3-new_owner a script that change the owner of hello
 
+task 3 3-new_owner a script that change the owner of the hello
+
+task 2 2-groups a script used to print all the groups
+
+task 4 4-empty a script that create empty file 
+
 
