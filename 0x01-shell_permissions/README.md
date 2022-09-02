@@ -1,3 +1,3 @@
-task 6 6-multiple_permissions a script that add execute to the owner
+task 7 7-everybody a script that add executionpermission to the owner
 
 
