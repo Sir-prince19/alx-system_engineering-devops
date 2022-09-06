@@ -1,1 +1,1 @@
-#!/bin/bash
+#!/bin/bash echo ls -t1 | head -n 10 13-unique 14-findthatword
